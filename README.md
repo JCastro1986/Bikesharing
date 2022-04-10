@@ -86,6 +86,6 @@ insight of the people who is using the bike service.
 - Another additional visualization that should be suggested is the the average distance traveled and income of the bike users. This could help
 us setting a prefered rate for lower income locations and have a premium rate in high income and more tourist places.
 
-Error when trying to create an invitation to revise my story in Tableau Public:
+Invitation to revise my story in Tableau Public:
 
-![Error](https://user-images.githubusercontent.com/95668609/161473343-13e80324-2a5f-4752-9d85-d0abf623373c.png)
+https://public.tableau.com/app/profile/jorge.castro2269/viz/BikesharingUsingTableau/BikesharingUsingTableau?publish=yes
